@@ -1,13 +1,4 @@
-       ____________________    _______________________ 
-       ___  __ \__  ____/_ |  / /_  __ \___  _/__  __ \
-       __  / / /_  __/  __ | / /_  / / /__  / __  /_/ /
-       _  /_/ /_  /___  __ |/ / / /_/ /__/ /  _  _, _/ 
-       /_____/ /_____/  _____/  \____/ /___/  /_/ |_|  
-                                                      
-
-==============================================================
-============= DEVOIR D'INTEGRATION BLOG DEGUSTER =============
-==============================================================
+DEVOIR D'INTEGRATION BLOG DEGUSTER
 
 L'objectif du devoir, vous devez intégrer le site en 
 responsive, en utilisant les librairies et plugins css et 
@@ -25,11 +16,8 @@ Vous trouverez tout ce dont vous aurez besoin dans le dossier
 les librairies à utiliser.
 
 
-   ___ _  _ ___ _____ ___ _   _  ___ _____ ___ ___  _  _ ___ 
-  |_ _| \| / __|_   _| _ \ | | |/ __|_   _|_ _/ _ \| \| / __|
-   | || .` \__ \ | | |   / |_| | (__  | |  | | (_) | .` \__ \
-  |___|_|\_|___/ |_| |_|_\\___/ \___| |_| |___\___/|_|\_|___/
-                                       
+
+INSTRUCTIONS                                 
 
 - 	Le site doit être responsive, c'est à dire qu'il doit être 
 	parfait sur mobile, sur tablette et sur desktop (ordinateur 
@@ -47,19 +35,9 @@ les librairies à utiliser.
 -	Vous allez forker le projet, que je vais vous mettre sur Github,
 	je vous laisse la joie de trouver comment faire tout ça.
 
-              ___ ___  _  _ ___ ___ ___ _    ___ 
-             / __/ _ \| \| / __| __|_ _| |  / __|
-            | (_| (_) | .` \__ \ _| | || |__\__ \
-             \___\___/|_|\_|___/___|___|____|___/
-                          ___ _____ 
-                         | __|_   _|
-                         | _|  | |  
-                         |___| |_|  
-     _    ___ ___ _  _ ___   _   _ _____ ___ _    ___ ___ 
-    | |  |_ _| __| \| / __| | | | |_   _|_ _| |  | __/ __|
-    | |__ | || _|| .` \__ \ | |_| | | |  | || |__| _|\__ \
-    |____|___|___|_|\_|___/  \___/  |_| |___|____|___|___/
 
+
+CONSEILS ET LIENS UTILES
 
 Documentation Bootstrap V4 : 
 https://v4-alpha.getbootstrap.com/getting-started/introduction/
