@@ -1,4 +1,4 @@
-DEVOIR D'INTEGRATION BLOG DEGUSTER
+# DEVOIR D'INTEGRATION BLOG DEGUSTER
 
 L'objectif du devoir, vous devez intégrer le site en 
 responsive, en utilisant les librairies et plugins css et 
@@ -17,7 +17,7 @@ les librairies à utiliser.
 
 
 
-INSTRUCTIONS                                 
+##INSTRUCTIONS                                 
 
 - 	Le site doit être responsive, c'est à dire qu'il doit être 
 	parfait sur mobile, sur tablette et sur desktop (ordinateur 
@@ -37,7 +37,7 @@ INSTRUCTIONS
 
 
 
-CONSEILS ET LIENS UTILES
+##CONSEILS ET LIENS UTILES
 
 Documentation Bootstrap V4 : 
 https://v4-alpha.getbootstrap.com/getting-started/introduction/
