@@ -1,4 +1,4 @@
-# DEVOIR D'INTEGRATION BLOG DEGUSTER
+# DEVOIR D'INTEGRATION
 
 L'objectif du devoir, vous devez intégrer le site en 
 responsive, en utilisant les librairies et plugins css et 
