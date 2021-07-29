@@ -5,17 +5,13 @@
 The goal of this test is to create the website in responsive design,
 using the libraries and plugins that are inside the project, or newer versions of them.
 
-You will go on this website :
-http://www.recettesdesaison.com
-To see how the website should behave (The animations, for example).
-
 All of the things you need are inside the "assets" folder that is in the project.
 
 
 
 **##INSTRUCTIONS**                                 
 
-- 	The website must be responsive, and display perfectly on a desktop, tablet and mobile phone.
+- The website must be responsive, and display perfectly on a desktop, tablet and mobile phone.
 
 -	Try to be as close to the designs as possible, pixel perfect would be a plus.
 
@@ -25,7 +21,7 @@ All of the things you need are inside the "assets" folder that is in the project
 
 
 
-**##INFORMATIONS AND USEFULL LINKS**
+**##INFORMATIONS AND USEFULL LINKS, not required to use**
 
 Bootstrap V4 Documentation : 
 https://v4-alpha.getbootstrap.com/getting-started/introduction/
@@ -35,9 +31,6 @@ https://api.jquery.com/
 
 Slick slider Documentation : 
 https://github.com/kenwheeler/slick
-
-Css Documentation (For the lazy ones) : 
-http://css3generator.com/
 
 Mini game to learn Flexboxes, you'll find a link for the Grid on that same website : 
 http://flexboxfroggy.com/#fr
